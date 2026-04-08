@@ -7,7 +7,7 @@ import 'providers/transaction_provider.dart';
 import 'main_wrapper.dart'; 
 import 'package:firebase_core/firebase_core.dart'; 
 import 'firebase_options.dart';
-import 'pages/auth_page.dart'; // Fixed path based on your list
+import 'pages/auth_page.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 
 Future<void> main() async {
